@@ -67,9 +67,12 @@ python main.py
 ## Usage
 
 1. Access the admin panel by logging in with your admin credentials.
+![login](https://i.ibb.co/jM6ktGB/image.png)
 2. Use the various features provided by the admin panel to manage your Telegram bot efficiently.
+![home](https://i.ibb.co/nR6bvkf/image.png)
 3. Explore user statistics, send messages or announcements, search for users, and more.
-
+![stats](https://i.ibb.co/ygw6PGN/image.png)
+![messages](https://i.ibb.co/GTBQhm6/image.png)
 ## Contributing
 
 Contributions are welcome! If you would like to contribute to this project, please follow these steps:
